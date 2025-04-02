@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GazeOfVoid/static/css/main.dd6304f1.css",
+    "main.js": "/GazeOfVoid/static/js/main.37a790fd.js",
+    "index.html": "/GazeOfVoid/index.html",
+    "main.dd6304f1.css.map": "/GazeOfVoid/static/css/main.dd6304f1.css.map",
+    "main.37a790fd.js.map": "/GazeOfVoid/static/js/main.37a790fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd6304f1.css",
+    "static/js/main.37a790fd.js"
+  ]
+}
