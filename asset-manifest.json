@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/GazeOfVoid/static/css/main.bf979f63.css",
-    "main.js": "/GazeOfVoid/static/js/main.f5f94a4a.js",
+    "main.css": "/GazeOfVoid/static/css/main.66420068.css",
+    "main.js": "/GazeOfVoid/static/js/main.db3f4ba2.js",
     "index.html": "/GazeOfVoid/index.html",
-    "main.bf979f63.css.map": "/GazeOfVoid/static/css/main.bf979f63.css.map",
-    "main.f5f94a4a.js.map": "/GazeOfVoid/static/js/main.f5f94a4a.js.map"
+    "main.66420068.css.map": "/GazeOfVoid/static/css/main.66420068.css.map",
+    "main.db3f4ba2.js.map": "/GazeOfVoid/static/js/main.db3f4ba2.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf979f63.css",
-    "static/js/main.f5f94a4a.js"
+    "static/css/main.66420068.css",
+    "static/js/main.db3f4ba2.js"
   ]
 }
